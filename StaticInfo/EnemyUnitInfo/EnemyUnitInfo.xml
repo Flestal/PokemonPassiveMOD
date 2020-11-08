@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<EnemyUnitClassRoot>
+    <Enemy ID="16539010">
+    <!--맥컬린-->
+    <NameID>19539110</NameID>
+    <MinHeight>190</MinHeight>
+    <MaxHeight>190</MaxHeight>
+    <BookId>100010</BookId>
+    <DeckId>100010</DeckId>
+    <DropTable Level="0">
+      <DropItem Prob="1">16569000</DropItem>
+      <DropItem Prob="1">16569001</DropItem>
+      <DropItem Prob="1">16569002</DropItem>
+    </DropTable>
+    <DropTable Level="1">
+      <DropItem Prob="1">16569000</DropItem>
+      <DropItem Prob="1">16569001</DropItem>
+      <DropItem Prob="1">16569002</DropItem>
+    </DropTable>
+  </Enemy>
+  <Enemy ID="16539012">
+    <!--나오키-->
+    <NameID>19539112</NameID>
+    <MinHeight>160</MinHeight>
+    <MaxHeight>160</MaxHeight>
+    <BookId>100012</BookId>
+    <DeckId>100012</DeckId>
+    <DropTable Level="0">
+      <DropItem Prob="1">16569003</DropItem>
+      <DropItem Prob="1">16569004</DropItem>
+    </DropTable>
+    <DropTable Level="1">
+      <DropItem Prob="1">16569003</DropItem>
+      <DropItem Prob="1">16569004</DropItem>
+    </DropTable>
+  </Enemy>
+</EnemyUnitClassRoot>

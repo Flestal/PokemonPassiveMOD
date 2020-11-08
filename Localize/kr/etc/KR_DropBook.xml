@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <text id="dropbook_poke1">포켓몬 패시브 1</text>
+    <text id="dropbook_poke2">포켓몬 패시브 2</text>
+    <text id="dropbook_poke3">포켓몬 패시브 3</text>
+    <text id="dropbook_poke4">포켓몬 패시브 4</text>
+    <text id="dropbook_poke5">포켓몬 패시브 5</text>
+</localize>

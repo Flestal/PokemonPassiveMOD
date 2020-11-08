@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BookXmlRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Book ID="16549000">
+    <Name>포켓몬특성1_1</Name>
+    <TextId>16549000</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579000</Passive>
+      <Passive Level="1">16579001</Passive>
+      <Passive Level="1">16579002</Passive>
+      <Passive Level="1">16579003</Passive>
+      <Passive Level="1">16579004</Passive>
+      <Passive Level="1">16579005</Passive>
+      <Passive Level="1">16579006</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549001">
+    <Name>포켓몬특성1_2</Name>
+    <TextId>16549001</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579000</Passive>
+      <Passive Level="1">16579001</Passive>
+      <Passive Level="1">16579002</Passive>
+      <Passive Level="1">16579003</Passive>
+      <Passive Level="1">16579004</Passive>
+      <Passive Level="1">16579005</Passive>
+      <Passive Level="1">16579006</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549002">
+    <Name>포켓몬특성1_3</Name>
+    <TextId>16549002</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579000</Passive>
+      <Passive Level="1">16579001</Passive>
+      <Passive Level="1">16579002</Passive>
+      <Passive Level="1">16579003</Passive>
+      <Passive Level="1">16579004</Passive>
+      <Passive Level="1">16579005</Passive>
+      <Passive Level="1">16579006</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549003">
+    <Name>포켓몬특성2_1</Name>
+    <TextId>16549003</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579007</Passive>
+      <Passive Level="1">16579008</Passive>
+      <Passive Level="1">16579009</Passive>
+      <Passive Level="1">16579010</Passive>
+      <Passive Level="1">16579011</Passive>
+      <Passive Level="1">16579012</Passive>
+      <Passive Level="1">16579013</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549004">
+    <Name>포켓몬특성2_2</Name>
+    <TextId>16549004</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579007</Passive>
+      <Passive Level="1">16579008</Passive>
+      <Passive Level="1">16579009</Passive>
+      <Passive Level="1">16579010</Passive>
+      <Passive Level="1">16579011</Passive>
+      <Passive Level="1">16579012</Passive>
+      <Passive Level="1">16579013</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549005">
+    <Name>포켓몬특성2_3</Name>
+    <TextId>16549005</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579007</Passive>
+      <Passive Level="1">16579008</Passive>
+      <Passive Level="1">16579009</Passive>
+      <Passive Level="1">16579010</Passive>
+      <Passive Level="1">16579011</Passive>
+      <Passive Level="1">16579012</Passive>
+      <Passive Level="1">16579013</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549006">
+    <Name>포켓몬특성3_1</Name>
+    <TextId>16549006</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579014</Passive>
+      <Passive Level="1">16579015</Passive>
+      <Passive Level="1">16579016</Passive>
+      <Passive Level="1">16579017</Passive>
+      <Passive Level="1">16579018</Passive>
+      <Passive Level="1">16579019</Passive>
+      <Passive Level="1">16579020</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549007">
+    <Name>포켓몬특성3_2</Name>
+    <TextId>16549007</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579014</Passive>
+      <Passive Level="1">16579015</Passive>
+      <Passive Level="1">16579016</Passive>
+      <Passive Level="1">16579017</Passive>
+      <Passive Level="1">16579018</Passive>
+      <Passive Level="1">16579019</Passive>
+      <Passive Level="1">16579020</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549008">
+    <Name>포켓몬특성3_3</Name>
+    <TextId>16549008</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579014</Passive>
+      <Passive Level="1">16579015</Passive>
+      <Passive Level="1">16579016</Passive>
+      <Passive Level="1">16579017</Passive>
+      <Passive Level="1">16579018</Passive>
+      <Passive Level="1">16579019</Passive>
+      <Passive Level="1">16579020</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549009">
+    <Name>포켓몬특성4_1</Name>
+    <TextId>16549009</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579021</Passive>
+      <Passive Level="1">16579022</Passive>
+      <Passive Level="1">16579023</Passive>
+      <Passive Level="1">16579024</Passive>
+      <Passive Level="1">16579025</Passive>
+      <Passive Level="1">16579026</Passive>
+      <Passive Level="1">16579027</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549010">
+    <Name>포켓몬특성4_2</Name>
+    <TextId>16549010</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579021</Passive>
+      <Passive Level="1">16579022</Passive>
+      <Passive Level="1">16579023</Passive>
+      <Passive Level="1">16579024</Passive>
+      <Passive Level="1">16579025</Passive>
+      <Passive Level="1">16579026</Passive>
+      <Passive Level="1">16579027</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549011">
+    <Name>포켓몬특성4_3</Name>
+    <TextId>16549011</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579021</Passive>
+      <Passive Level="1">16579022</Passive>
+      <Passive Level="1">16579023</Passive>
+      <Passive Level="1">16579024</Passive>
+      <Passive Level="1">16579025</Passive>
+      <Passive Level="1">16579026</Passive>
+      <Passive Level="1">16579027</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549012">
+    <Name>포켓몬특성5_1</Name>
+    <TextId>16549012</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579028</Passive>
+      <Passive Level="1">16579029</Passive>
+      <Passive Level="1">16579030</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549013">
+    <Name>포켓몬특성5_2</Name>
+    <TextId>16549013</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579028</Passive>
+      <Passive Level="1">16579029</Passive>
+      <Passive Level="1">16579030</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549014">
+    <Name>포켓몬특성5_3</Name>
+    <TextId>16549014</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579028</Passive>
+      <Passive Level="1">16579029</Passive>
+      <Passive Level="1">16579030</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+
+</BookXmlRoot>

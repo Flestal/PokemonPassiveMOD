@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PassiveXmlRoot>
+
+  <!-- 가속 -->
+  <Passive ID="16579000">
+  <Rarity>Uncommon</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 게으름 -->
+  <Passive ID="16579001">
+  <Rarity>Common</Rarity>
+  <Cost>-10</Cost>
+  </Passive>
+  <!-- 괴짜 -->
+  <Passive ID="16579002">
+  <Rarity>Unique</Rarity>
+  <Cost>10</Cost>
+  </Passive>
+  <!-- 그림자밟기 -->
+  <Passive ID="16579003">
+  <Rarity>Unique</Rarity>
+  <Cost>3</Cost>
+  </Passive>
+  <!-- 근성 -->
+  <Passive ID="16579004">
+  <Rarity>Rare</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 까칠한피부 -->
+  <Passive ID="16579005">
+  <Rarity>Uncommon</Rarity>
+  <Cost>2</Cost>
+  </Passive>
+  <!-- 깨어진갑옷 -->
+  <Passive ID="16579006">
+  <Rarity>Rare</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 나이트메어 -->
+  <Passive ID="16579007">
+  <Rarity>Unique</Rarity>
+  <Cost>5</Cost>
+  </Passive>
+  <!-- 마이너스 -->
+  <Passive ID="16579008">
+  <Rarity>Uncommon</Rarity>
+  <Cost>2</Cost>
+  </Passive>
+  <!-- 플러스 -->
+  <Passive ID="16579009">
+  <Rarity>Uncommon</Rarity>
+  <Cost>2</Cost>
+  </Passive>
+  <!-- 멀티스케일 -->
+  <Passive ID="16579010">
+  <Rarity>Unique</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 무아지경 -->
+  <Passive ID="16579011">
+  <Rarity>Unique</Rarity>
+  <Cost>5</Cost>
+  </Passive>
+  <!-- 변덕쟁이 -->
+  <Passive ID="16579012">
+  <Rarity>Unique</Rarity>
+  <Cost>3</Cost>
+  </Passive>
+  <!-- 변색 -->
+  <Passive ID="16579013">
+  <Rarity>Unique</Rarity>
+  <Cost>6</Cost>
+  </Passive>
+  <!-- 변환자재 -->
+  <Passive ID="16579014">
+  <Rarity>Unique</Rarity>
+  <Cost>6</Cost>
+  </Passive>
+  <!-- 부풀린가슴 -->
+  <Passive ID="16579015">
+  <Rarity>Rare</Rarity>
+  <Cost>2</Cost>
+  </Passive>
+  <!-- 불가사의부적 -->
+  <Passive ID="16579016">
+  <Rarity>Unique</Rarity>
+  <Cost>8</Cost>
+  </Passive>
+  <!-- 불꽃몸 -->
+  <Passive ID="16579017">
+  <Rarity>Uncommon</Rarity>
+  <Cost>2</Cost>
+  </Passive>
+  <!-- 속보 -->
+  <Passive ID="16579018">
+  <Rarity>Uncommon</Rarity>
+  <Cost>1</Cost>
+  </Passive>
+  <!-- 슬로스타트 -->
+  <Passive ID="16579019">
+  <Rarity>Common</Rarity>
+  <Cost>-6</Cost>
+  </Passive>
+  <!-- 심술꾸러기 -->
+  <Passive ID="16579020">
+  <Rarity>Unique</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 옹골참 -->
+  <Passive ID="16579021">
+  <Rarity>Rare</Rarity>
+  <Cost>1</Cost>
+  </Passive>
+  <!-- 위협 -->
+  <Passive ID="16579022">
+  <Rarity>Rare</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 유폭 -->
+  <Passive ID="16579023">
+  <Rarity>Rare</Rarity>
+  <Cost>3</Cost>
+  </Passive>
+  <!-- 의욕 -->
+  <Passive ID="16579024">
+  <Rarity>Uncommon</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 자기과신 -->
+  <Passive ID="16579025">
+  <Rarity>Rare</Rarity>
+  <Cost>3</Cost>
+  </Passive>
+  <!-- 재생력 -->
+  <Passive ID="16579026">
+  <Rarity>Unique</Rarity>
+  <Cost>6</Cost>
+  </Passive>
+  <!-- 저주받은바디 -->
+  <Passive ID="16579027">
+  <Rarity>Unique</Rarity>
+  <Cost>5</Cost>
+  </Passive>
+  <!-- 탈 -->
+  <Passive ID="16579028">
+  <Rarity>Unique</Rarity>
+  <Cost>7</Cost>
+  </Passive>
+  <!-- 틀깨기 -->
+  <Passive ID="16579029">
+  <Rarity>Unique</Rarity>
+  <Cost>6</Cost>
+  </Passive>
+  <!-- 프레셔 -->
+  <Passive ID="16579030">
+  <Rarity>Rare</Rarity>
+  <Cost>6</Cost>
+  </Passive>
+
+
+</PassiveXmlRoot>

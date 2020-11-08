@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <bookDescList>
+  <BookDesc BookID="16549000">
+    <BookName>포켓몬특성1_1</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>자신에게 전투 시작 시 신속 1 부여, 매 막마다 신속 효과 1씩 증가, 최대 신속 6까지 가능</Passive>
+        <Passive>자신이 행동을 했으면 다음 막 동안 행동 불가</Passive>
+        <Passive>무대 시작시 이 패시브를 포함해 자신의 모든 패시브와 전투책장을 지우고 무작위 적의 패시브와 전투책장을 가져옴</Passive>
+        <Passive>매 막마다 모든 적에게 속박 1 부여, 공격 적중 시 다음 막에 속박 1 부여</Passive>
+        <Passive>상태이상에 걸려 있을 시 주사위 피해량 x1.5</Passive>
+        <Passive>일방 공격을 받을 시 상대에게 피해의 20%만큼 반사</Passive>
+        <Passive>피해를 받을 시 자신에게 신속 1, 힘 1, 취약 1 부여</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549001">
+    <BookName>포켓몬특성1_2</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>자신에게 전투 시작 시 신속 1 부여, 매 막마다 신속 효과 1씩 증가, 최대 신속 6까지 가능</Passive>
+        <Passive>자신이 행동을 했으면 다음 막 동안 행동 불가</Passive>
+        <Passive>무대 시작시 이 패시브를 포함해 자신의 모든 패시브와 전투책장을 지우고 무작위 적의 패시브와 전투책장을 가져옴</Passive>
+        <Passive>매 막마다 모든 적에게 속박 1 부여, 공격 적중 시 다음 막에 속박 1 부여</Passive>
+        <Passive>상태이상에 걸려 있을 시 주사위 피해량 x1.5</Passive>
+        <Passive>일방 공격을 받을 시 상대에게 피해의 20%만큼 반사</Passive>
+        <Passive>피해를 받을 시 자신에게 신속 1, 힘 1, 취약 1 부여</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549002">
+    <BookName>포켓몬특성1_3</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>자신에게 전투 시작 시 신속 1 부여, 매 막마다 신속 효과 1씩 증가, 최대 신속 6까지 가능</Passive>
+        <Passive>자신이 행동을 했으면 다음 막 동안 행동 불가</Passive>
+        <Passive>무대 시작시 이 패시브를 포함해 자신의 모든 패시브와 전투책장을 지우고 무작위 적의 패시브와 전투책장을 가져옴</Passive>
+        <Passive>매 막마다 모든 적에게 속박 1 부여, 공격 적중 시 다음 막에 속박 1 부여</Passive>
+        <Passive>상태이상에 걸려 있을 시 주사위 피해량 x1.5</Passive>
+        <Passive>일방 공격을 받을 시 상대에게 피해의 20%만큼 반사</Passive>
+        <Passive>피해를 받을 시 자신에게 신속 1, 힘 1, 취약 1 부여</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549003">
+    <BookName>포켓몬특성2_1</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>모두에게 적용, 주사위가 깨져 있을 시 깨진 주사위의 비율에 따라 최대 체력의 12.5%까지 피해</Passive>
+        <Passive>무대에서 플러스 보유자 숫자만큼 자신의 주사위 피해량 증가</Passive>
+        <Passive>무대에서 마이너스 보유자 숫자만큼 자신의 주사위 위력 증가</Passive>
+        <Passive>매 막마다 체력이 100%일 경우 그 막 동안 자신이 처음 받는 피해의 50%만큼 보호를 얻음</Passive>
+        <Passive>자신의 주사위 위력 +3, 피해량 x2, 매 무대마다 자신이 처음 사용한 전투 책장을 제외한 모든 전투 책장 소멸, 자신이 처음 사용한 전투 책장 8장을 추가</Passive>
+        <Passive>매 막마다 자신에게 힘, 허약, 인내, 무장해제, 보호, 취약, 신속, 속박 중 3가지가 1~3 부여</Passive>
+        <Passive>매 막마다 처음 받은 피해의 방어 수준이 내성이 됨</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549004">
+    <BookName>포켓몬특성2_2</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>모두에게 적용, 주사위가 깨져 있을 시 깨진 주사위의 비율에 따라 최대 체력의 12.5%까지 피해</Passive>
+        <Passive>무대에서 플러스 보유자 숫자만큼 자신의 주사위 피해량 증가</Passive>
+        <Passive>무대에서 마이너스 보유자 숫자만큼 자신의 주사위 위력 증가</Passive>
+        <Passive>매 막마다 체력이 100%일 경우 그 막 동안 자신이 처음 받는 피해의 50%만큼 보호를 얻음</Passive>
+        <Passive>자신의 주사위 위력 +3, 피해량 x2, 매 무대마다 자신이 처음 사용한 전투 책장을 제외한 모든 전투 책장 소멸, 자신이 처음 사용한 전투 책장 8장을 추가</Passive>
+        <Passive>매 막마다 자신에게 힘, 허약, 인내, 무장해제, 보호, 취약, 신속, 속박 중 3가지가 1~3 부여</Passive>
+        <Passive>매 막마다 처음 받은 피해의 방어 수준이 내성이 됨</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549005">
+    <BookName>포켓몬특성2_3</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>모두에게 적용, 주사위가 깨져 있을 시 깨진 주사위의 비율에 따라 최대 체력의 12.5%까지 피해</Passive>
+        <Passive>무대에서 플러스 보유자 숫자만큼 자신의 주사위 피해량 증가</Passive>
+        <Passive>무대에서 마이너스 보유자 숫자만큼 자신의 주사위 위력 증가</Passive>
+        <Passive>매 막마다 체력이 100%일 경우 그 막 동안 자신이 처음 받는 피해의 50%만큼 보호를 얻음</Passive>
+        <Passive>자신의 주사위 위력 +3, 피해량 x2, 매 무대마다 자신이 처음 사용한 전투 책장을 제외한 모든 전투 책장 소멸, 자신이 처음 사용한 전투 책장 8장을 추가</Passive>
+        <Passive>매 막마다 자신에게 힘, 허약, 인내, 무장해제, 보호, 취약, 신속, 속박 중 3가지가 1~3 부여</Passive>
+        <Passive>매 막마다 처음 받은 피해의 방어 수준이 내성이 됨</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549006">
+    <BookName>포켓몬특성3_1</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 처음 적중한 주사위 종류의 피해량 x1.5</Passive>
+        <Passive>무장해제, 취약에 걸리지 않음</Passive>
+        <Passive>일반적인 공격에 대해 무적, 자신의 방어 속성 중 가장 취약한 속성으로 피격 시 최대 체력의 50% 감소, 가장 취약한 속성이 2개 이상인 경우 참격-관통-타격 순으로 1개의 속성만 적용됨, 가장 취약한 속성이 2개 이상인 경우 참격-관통-타격 순으로 1개의 속성만 적용됨</Passive>
+        <Passive>피해를 받을 시 상대에게 피해량만큼 화상 부여</Passive>
+        <Passive>매 막마다 상태이상에 걸려 있을 시 신속 1 부여</Passive>
+        <Passive>무대 시작 시 속박 3 부여, 이후 매 막마다 부여하는 속박이 1씩 감소함</Passive>
+        <Passive>무대 시작 시 힘 - 허약, 인내 - 무장해제, 보호 - 취약, 신속 - 속박으로 바뀌어서 부여됨</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549007">
+    <BookName>포켓몬특성3_2</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 처음 적중한 주사위 종류의 피해량 x1.5</Passive>
+        <Passive>무장해제, 취약에 걸리지 않음</Passive>
+        <Passive>일반적인 공격에 대해 무적, 자신의 방어 속성 중 가장 취약한 속성으로 피격 시 최대 체력의 50% 감소, 가장 취약한 속성이 2개 이상인 경우 참격-관통-타격 순으로 1개의 속성만 적용됨</Passive>
+        <Passive>피해를 받을 시 상대에게 피해량만큼 화상 부여</Passive>
+        <Passive>매 막마다 상태이상에 걸려 있을 시 신속 1 부여</Passive>
+        <Passive>무대 시작 시 속박 3 부여, 이후 매 막마다 부여하는 속박이 1씩 감소함</Passive>
+        <Passive>무대 시작 시 힘 - 허약, 인내 - 무장해제, 보호 - 취약, 신속 - 속박으로 바뀌어서 부여됨</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549008">
+    <BookName>포켓몬특성3_3</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 처음 적중한 주사위 종류의 피해량 x1.5</Passive>
+        <Passive>무장해제, 취약에 걸리지 않음</Passive>
+        <Passive>일반적인 공격에 대해 무적, 자신의 방어 속성 중 가장 취약한 속성으로 피격 시 최대 체력의 50% 감소, 가장 취약한 속성이 2개 이상인 경우 참격-관통-타격 순으로 1개의 속성만 적용됨</Passive>
+        <Passive>피해를 받을 시 상대에게 피해량만큼 화상 부여</Passive>
+        <Passive>매 막마다 상태이상에 걸려 있을 시 신속 1 부여</Passive>
+        <Passive>무대 시작 시 속박 3 부여, 이후 매 막마다 부여하는 속박이 1씩 감소함</Passive>
+        <Passive>무대 시작 시 힘 - 허약, 인내 - 무장해제, 보호 - 취약, 신속 - 속박으로 바뀌어서 부여됨</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549009">
+    <BookName>포켓몬특성4_1</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>자신의 체력이 100%일 경우 죽음에 이르는 피해를 받을 시 체력을 1 남기고 그 막 동안 무적</Passive>
+        <Passive>무대 시작 시 모든 적에게 허약 1 부여</Passive>
+        <Passive>자신 사망 시 모두에게 최대 체력의 20% 피해</Passive>
+        <Passive>공격 주사위 위력 +5, 매 공격 시 20% 확률로 주사위 값이 1이 됨</Passive>
+        <Passive>적을 처치할 시 그 무대 동안 처치한 적의 수만큼 힘을 부여</Passive>
+        <Passive>무대 시작 시 자신의 최대 체력의 33%만큼 회복</Passive>
+        <Passive>공격 받을 시 30%로 상대 주사위 1개 봉인</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549010">
+    <BookName>포켓몬특성4_2</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>자신의 체력이 100%일 경우 죽음에 이르는 피해를 받을 시 체력을 1 남기고 그 막 동안 무적</Passive>
+        <Passive>무대 시작 시 모든 적에게 허약 1 부여</Passive>
+        <Passive>자신 사망 시 모두에게 최대 체력의 20% 피해</Passive>
+        <Passive>공격 주사위 위력 +5, 매 공격 시 20% 확률로 주사위 값이 1이 됨</Passive>
+        <Passive>적을 처치할 시 그 무대 동안 처치한 적의 수만큼 힘을 부여</Passive>
+        <Passive>무대 시작 시 자신의 최대 체력의 33%만큼 회복</Passive>
+        <Passive>공격 받을 시 30%로 상대 주사위 1개 봉인</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549011">
+    <BookName>포켓몬특성4_3</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>자신의 체력이 100%일 경우 죽음에 이르는 피해를 받을 시 체력을 1 남기고 그 막 동안 무적</Passive>
+        <Passive>무대 시작 시 모든 적에게 허약 1 부여</Passive>
+        <Passive>자신 사망 시 모두에게 최대 체력의 20% 피해</Passive>
+        <Passive>공격 주사위 위력 +5, 매 공격 시 20% 확률로 주사위 값이 1이 됨</Passive>
+        <Passive>적을 처치할 시 그 무대 동안 처치한 적의 수만큼 힘을 부여</Passive>
+        <Passive>무대 시작 시 자신의 최대 체력의 33%만큼 회복</Passive>
+        <Passive>공격 받을 시 30%로 상대 주사위 1개 봉인</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549012">
+    <BookName>포켓몬특성5_1</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 1번 피해를 받지 않음</Passive>
+        <Passive>무대 시작 시 틀깨기를 제외한 포켓몬 특성 모드의 모든 패시브를 제거</Passive>
+        <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549013">
+    <BookName>포켓몬특성5_2</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 1번 피해를 받지 않음</Passive>
+        <Passive>무대 시작 시 틀깨기를 제외한 포켓몬 특성 모드의 모든 패시브를 제거</Passive>
+        <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549014">
+    <BookName>포켓몬특성5_3</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 1번 피해를 받지 않음</Passive>
+        <Passive>무대 시작 시 틀깨기를 제외한 포켓몬 특성 모드의 모든 패시브를 제거</Passive>
+        <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
+      </PassiveList>
+  </BookDesc>
+  </bookDescList>
+</BookDescRoot>
