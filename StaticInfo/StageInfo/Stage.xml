@@ -24,7 +24,7 @@
     <Invitation Combine="BookRecipe">
       <Book>200014</Book>
       <Book>200015</Book>
-      <Book>250001</Book>
+      <!-- <Book>250001</Book> -->
     </Invitation>
     <Chapter>1</Chapter>
   </Stage>
