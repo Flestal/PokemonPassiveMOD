@@ -26,6 +26,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -55,6 +56,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -84,6 +86,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -113,6 +116,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -142,6 +146,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -171,6 +176,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -200,6 +206,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -229,6 +236,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -258,6 +266,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -287,6 +296,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -316,6 +326,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -345,6 +356,7 @@
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -366,10 +378,15 @@
       <Passive Level="1">16579028</Passive>
       <Passive Level="1">16579029</Passive>
       <Passive Level="1">16579030</Passive>
+      <Passive Level="1">16579031</Passive>
+      <Passive Level="1">16579032</Passive>
+      <Passive Level="1">16579033</Passive>
+      <Passive Level="1">16579034</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -391,10 +408,15 @@
       <Passive Level="1">16579028</Passive>
       <Passive Level="1">16579029</Passive>
       <Passive Level="1">16579030</Passive>
+      <Passive Level="1">16579031</Passive>
+      <Passive Level="1">16579032</Passive>
+      <Passive Level="1">16579033</Passive>
+      <Passive Level="1">16579034</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>
@@ -416,10 +438,192 @@
       <Passive Level="1">16579028</Passive>
       <Passive Level="1">16579029</Passive>
       <Passive Level="1">16579030</Passive>
+      <Passive Level="1">16579031</Passive>
+      <Passive Level="1">16579032</Passive>
+      <Passive Level="1">16579033</Passive>
+      <Passive Level="1">16579034</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549015">
+    <Name>포켓몬특성6_1</Name>
+    <TextId>16549015</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579035</Passive>
+      <Passive Level="1">16579036</Passive>
+      <Passive Level="1">16579037</Passive>
+      <Passive Level="1">16579038</Passive>
+      <Passive Level="1">16579039</Passive>
+      <Passive Level="1">16579040</Passive>
+      <Passive Level="1">16579041</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549016">
+    <Name>포켓몬특성6_2</Name>
+    <TextId>16549016</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579035</Passive>
+      <Passive Level="1">16579036</Passive>
+      <Passive Level="1">16579037</Passive>
+      <Passive Level="1">16579038</Passive>
+      <Passive Level="1">16579039</Passive>
+      <Passive Level="1">16579040</Passive>
+      <Passive Level="1">16579041</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549017">
+    <Name>포켓몬특성6_3</Name>
+    <TextId>16549017</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579035</Passive>
+      <Passive Level="1">16579036</Passive>
+      <Passive Level="1">16579037</Passive>
+      <Passive Level="1">16579038</Passive>
+      <Passive Level="1">16579039</Passive>
+      <Passive Level="1">16579040</Passive>
+      <Passive Level="1">16579041</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549018">
+    <Name>포켓몬특성7_1</Name>
+    <TextId>16549018</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579042</Passive>
+      <Passive Level="1">16579043</Passive>
+      <Passive Level="1">16579044</Passive>
+      <Passive Level="1">16579045</Passive>
+      <Passive Level="1">16579046</Passive>
+      <Passive Level="1">16579047</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549019">
+    <Name>포켓몬특성7_2</Name>
+    <TextId>16549019</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579042</Passive>
+      <Passive Level="1">16579043</Passive>
+      <Passive Level="1">16579044</Passive>
+      <Passive Level="1">16579045</Passive>
+      <Passive Level="1">16579046</Passive>
+      <Passive Level="1">16579047</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Puppet1Librarian</CharacterSkin>
+  </Book>
+  <Book ID="16549020">
+    <Name>포켓몬특성7_3</Name>
+    <TextId>16549020</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>10</PassiveCost>
+      <Passive Level="1">16579042</Passive>
+      <Passive Level="1">16579043</Passive>
+      <Passive Level="1">16579044</Passive>
+      <Passive Level="1">16579045</Passive>
+      <Passive Level="1">16579046</Passive>
+      <Passive Level="1">16579047</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>PokemonLogo</BookIcon>
+    <Chapter>6</Chapter>
+    <Episode>16559000</Episode>
     <Rarity>Common</Rarity>
     <CharacterSkin>Puppet1Librarian</CharacterSkin>
   </Book>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="buf_16579036">
+        <Name>가뭄</Name>
+        <Desc>{0}막 동안 부여하는 화상 수치 2배</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="buf_Omegaruby">
+        <Name>끝의대지</Name>
+        <Desc>패시브 보유자가 살아 있는 동안 부여하는 화상, 연기 수치 3배</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="buf_Alphasapphire">
+        <Name>시작의바다</Name>
+        <Desc>패시브 보유자가 살아 있는 동안 부여하는 부식, 충전 수치 3배</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="buf_Deltastream">
+        <Name>델타스트림</Name>
+        <Desc>패시브 보유자가 살아 있는 동안 속도 6 이상인 모든 아군의 수비 주사위 위력 +3</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

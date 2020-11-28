@@ -124,4 +124,72 @@
         <Name>프레셔</Name>
         <Desc>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Desc>
     </PassiveDesc>
+    <PassiveDesc ID="16579031">
+        <Name>면역</Name>
+        <Desc>막 종료 시 부식에 의한 피해, 피격 시 부식에 의한 추가 피해를 받지 않음</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579032">
+        <Name>독폭주</Name>
+        <Desc>자신에게 부여된 부식 수치 3당 1만큼 주사위 위력 증가, 부식 수치만큼 피해량 증가</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579033">
+        <Name>포이즌힐</Name>
+        <Desc>막 종료 시 부식에 의한 피해를 받지 않고 그 수치만큼 회복함</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579034">
+        <Name>독수</Name>
+        <Desc>모든 공격 주사위에 '[적중] 자신과 상대에게 부식 1 부여'가 추가됨</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579035">
+        <Name>타오르는불꽃</Name>
+        <Desc>자신에게 부여된 화상 수치 5당 주사위 위력 1 증가, 화상에 의한 피해를 받지 않음</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579036">
+        <Name>가뭄</Name>
+        <Desc>무대 시작 시 5막 동안 부여되는 화상 수치가 2배가 됨</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579037">
+        <Name>끝의대지</Name>
+        <Desc>이 패시브 보유자가 살아 있는 동안 부여되는 모든 화상, 연기 수치가 3배가 됨</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579038">
+        <Name>시작의바다</Name>
+        <Desc>이 패시브 보유자가 살아 있는 동안 부여되는 모든 부식, 충전 수치가 3배가 됨</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579039">
+        <Name>델타스트림</Name>
+        <Desc>이 패시브 보유자가 살아 있는 동안 속도 6 이상인 모든 아군의 수비 주사위 위력 +3</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579040">
+        <Name>내열</Name>
+        <Desc>막 시작 시 화상에 의한 피해를 절반으로 받음</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579041">
+        <Name>단단한발톱</Name>
+        <Desc>근접 책장의 위력 +1</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579042">
+        <Name>무기력</Name>
+        <Desc>체력이 50% 이하면 모든 주사위 값이 1로 고정됨</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579043">
+        <Name>배짱</Name>
+        <Desc>공격 적중 시 상대의 내성이 내성, 면역이면 주사위 값만큼 추가 피해</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579044">
+        <Name>부식</Name>
+        <Desc>부식을 거는 주사위의 내성 수준에 따라 부식을 1~3 추가로 부여함</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579045">
+        <Name>불면</Name>
+        <Desc>행동 불가 상태에 걸리지 않음</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579046">
+        <Name>수의베일</Name>
+        <Desc>화상에 걸리지 않음</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="16579047">
+        <Name>스나이퍼</Name>
+        <Desc>상대의 가장 약한 속성으로 적중 시 주사위 값만큼 추가 피해</Desc>
+    </PassiveDesc>
 </PassiveDescRoot>

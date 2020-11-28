@@ -1,0 +1,2 @@
+D:\Documents\라오루모드\DLL코딩\PokemonPassives\PokemonPassives\obj\Debug\PokemonPassivesMOD.csprojAssemblyReference.cache
+D:\Documents\라오루모드\DLL코딩\PokemonPassives\PokemonPassives\obj\Debug\PokemonPassivesMOD.csproj.CoreCompileInputs.cache

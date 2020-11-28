@@ -44,12 +44,12 @@
   <!-- 마이너스 -->
   <Passive ID="16579008">
   <Rarity>Uncommon</Rarity>
-  <Cost>2</Cost>
+  <Cost>1</Cost>
   </Passive>
   <!-- 플러스 -->
   <Passive ID="16579009">
   <Rarity>Uncommon</Rarity>
-  <Cost>2</Cost>
+  <Cost>1</Cost>
   </Passive>
   <!-- 멀티스케일 -->
   <Passive ID="16579010">
@@ -156,6 +156,90 @@
   <Rarity>Rare</Rarity>
   <Cost>6</Cost>
   </Passive>
-
+  <!-- 면역 -->
+  <Passive ID="16579031">
+  <Rarity>Rare</Rarity>
+  <Cost>3</Cost>
+  </Passive>
+  <!-- 독폭주 -->
+  <Passive ID="16579032">
+  <Rarity>Rare</Rarity>
+  <Cost>7</Cost>
+  </Passive>
+  <!-- 포이즌힐 -->
+  <Passive ID="16579033">
+  <Rarity>Unique</Rarity>
+  <Cost>8</Cost>
+  </Passive>
+  <!-- 독수 -->
+  <Passive ID="16579034">
+  <Rarity>Unique</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 타오르는불꽃 -->
+  <Passive ID="16579035">
+  <Rarity>Rare</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 가뭄 -->
+  <Passive ID="16579036">
+  <Rarity>Rare</Rarity>
+  <Cost>6</Cost>
+  </Passive>
+  <!-- 끝의대지 -->
+  <Passive ID="16579037">
+  <Rarity>Unique</Rarity>
+  <Cost>8</Cost>
+  </Passive>
+  <!-- 시작의바다 -->
+  <Passive ID="16579038">
+  <Rarity>Unique</Rarity>
+  <Cost>8</Cost>
+  </Passive>
+  <!-- 델타스트림 -->
+  <Passive ID="16579039">
+  <Rarity>Unique</Rarity>
+  <Cost>8</Cost>
+  </Passive>
+  <!-- 내열 -->
+  <Passive ID="16579040">
+  <Rarity>Uncommon</Rarity>
+  <Cost>1</Cost>
+  </Passive>
+  <!-- 단단한발톱 -->
+  <Passive ID="16579041">
+  <Rarity>Uncommon</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 무기력 -->
+  <Passive ID="16579042">
+  <Rarity>Uncommon</Rarity>
+  <Cost>-14</Cost>
+  </Passive>
+  <!-- 배짱 -->
+  <Passive ID="16579043">
+  <Rarity>Rare</Rarity>
+  <Cost>4</Cost>
+  </Passive>
+  <!-- 부식 -->
+  <Passive ID="16579044">
+  <Rarity>Rare</Rarity>
+  <Cost>5</Cost>
+  </Passive>
+  <!-- 불면 -->
+  <Passive ID="16579045">
+  <Rarity>Uncommon</Rarity>
+  <Cost>3</Cost>
+  </Passive>
+  <!-- 수의베일 -->
+  <Passive ID="16579046">
+  <Rarity>Uncommon</Rarity>
+  <Cost>2</Cost>
+  </Passive>
+  <!-- 스나이퍼 -->
+  <Passive ID="16579047">
+  <Rarity>Rare</Rarity>
+  <Cost>4</Cost>
+  </Passive>
 
 </PassiveXmlRoot>

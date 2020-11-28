@@ -1,0 +1,12 @@
+D:\Documents\라오루모드\DLL코딩\PokemonPassives\PokemonPassives\bin\Release\PokemonPassivesMOD.dll
+D:\Documents\라오루모드\DLL코딩\PokemonPassives\PokemonPassives\bin\Release\PokemonPassivesMOD.pdb
+D:\Documents\라오루모드\DLL코딩\PokemonPassives\PokemonPassives\obj\Release\PokemonPassivesMOD.csprojAssemblyReference.cache
+D:\Documents\라오루모드\DLL코딩\PokemonPassives\PokemonPassives\obj\Release\PokemonPassivesMOD.csproj.CoreCompileInputs.cache
+D:\Documents\라오루모드\DLL코딩\PokemonPassives\PokemonPassives\obj\Release\PokemonPassivesMOD.dll
+D:\Documents\라오루모드\DLL코딩\PokemonPassives\PokemonPassives\obj\Release\PokemonPassivesMOD.pdb
+D:\SteamLibrary\steamapps\common\Library Of Ruina\LibraryOfRuina_Data\BaseMods\PokemonPassiveMOD\Source\PokemonPassives\obj\Release\PokemonPassivesMOD.csprojAssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Library Of Ruina\LibraryOfRuina_Data\BaseMods\PokemonPassiveMOD\Source\PokemonPassives\obj\Release\PokemonPassivesMOD.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Library Of Ruina\LibraryOfRuina_Data\BaseMods\PokemonPassiveMOD\Source\PokemonPassives\obj\Release\PokemonPassivesMOD.dll
+D:\SteamLibrary\steamapps\common\Library Of Ruina\LibraryOfRuina_Data\BaseMods\PokemonPassiveMOD\Source\PokemonPassives\obj\Release\PokemonPassivesMOD.pdb
+D:\SteamLibrary\steamapps\common\Library Of Ruina\LibraryOfRuina_Data\BaseMods\PokemonPassiveMOD\PokemonPassivesMOD.dll
+D:\SteamLibrary\steamapps\common\Library Of Ruina\LibraryOfRuina_Data\BaseMods\PokemonPassiveMOD\PokemonPassivesMOD.pdb

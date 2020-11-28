@@ -229,5 +229,77 @@
         <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
       </PassiveList>
   </BookDesc>
+  <BookDesc BookID="16549015">
+    <BookName>포켓몬특성6_1</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 1번 피해를 받지 않음</Passive>
+        <Passive>무대 시작 시 틀깨기를 제외한 포켓몬 특성 모드의 모든 패시브를 제거</Passive>
+        <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549016">
+    <BookName>포켓몬특성6_2</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 1번 피해를 받지 않음</Passive>
+        <Passive>무대 시작 시 틀깨기를 제외한 포켓몬 특성 모드의 모든 패시브를 제거</Passive>
+        <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549017">
+    <BookName>포켓몬특성6_3</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 1번 피해를 받지 않음</Passive>
+        <Passive>무대 시작 시 틀깨기를 제외한 포켓몬 특성 모드의 모든 패시브를 제거</Passive>
+        <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549018">
+    <BookName>포켓몬특성7_1</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 1번 피해를 받지 않음</Passive>
+        <Passive>무대 시작 시 틀깨기를 제외한 포켓몬 특성 모드의 모든 패시브를 제거</Passive>
+        <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549019">
+    <BookName>포켓몬특성7_2</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 1번 피해를 받지 않음</Passive>
+        <Passive>무대 시작 시 틀깨기를 제외한 포켓몬 특성 모드의 모든 패시브를 제거</Passive>
+        <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="16549020">
+    <BookName>포켓몬특성7_3</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>매 막마다 1번 피해를 받지 않음</Passive>
+        <Passive>무대 시작 시 틀깨기를 제외한 포켓몬 특성 모드의 모든 패시브를 제거</Passive>
+        <Passive>무대 시작 시 모든 상대의 모든 전투 책장의 필요 빛 +1</Passive>
+      </PassiveList>
+  </BookDesc>
   </bookDescList>
 </BookDescRoot>

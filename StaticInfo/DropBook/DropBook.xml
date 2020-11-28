@@ -7,37 +7,52 @@
     <DropItem Type="Equip">16549000</DropItem>
     <DropItem Type="Equip">16549001</DropItem>
     <DropItem Type="Equip">16549002</DropItem>
+    <DropItem Type="Equip">16549003</DropItem>
+    <DropItem Type="Equip">16549004</DropItem>
+    <DropItem Type="Equip">16549005</DropItem>
   </BookUse>
   <BookUse ID="16569001">
     <TextId>dropbook_poke2</TextId>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>5</Chapter>
-    <DropItem Type="Equip">16549003</DropItem>
-    <DropItem Type="Equip">16549004</DropItem>
-    <DropItem Type="Equip">16549005</DropItem>
+    <DropItem Type="Equip">16549006</DropItem>
+    <DropItem Type="Equip">16549007</DropItem>
+    <DropItem Type="Equip">16549008</DropItem>
+    <DropItem Type="Equip">16549009</DropItem>
+    <DropItem Type="Equip">16549010</DropItem>
+    <DropItem Type="Equip">16549011</DropItem>
   </BookUse>
   <BookUse ID="16569002">
     <TextId>dropbook_poke3</TextId>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>5</Chapter>
-    <DropItem Type="Equip">16549006</DropItem>
-    <DropItem Type="Equip">16549007</DropItem>
-    <DropItem Type="Equip">16549008</DropItem>
+    <DropItem Type="Equip">16549012</DropItem>
+    <DropItem Type="Equip">16549013</DropItem>
+    <DropItem Type="Equip">16549014</DropItem>
+    <DropItem Type="Equip">16549015</DropItem>
+    <DropItem Type="Equip">16549016</DropItem>
+    <DropItem Type="Equip">16549017</DropItem>
   </BookUse>
   <BookUse ID="16569003">
     <TextId>dropbook_poke4</TextId>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>5</Chapter>
-    <DropItem Type="Equip">16549009</DropItem>
-    <DropItem Type="Equip">16549010</DropItem>
-    <DropItem Type="Equip">16549011</DropItem>
+    <DropItem Type="Equip">16549015</DropItem>
+    <DropItem Type="Equip">16549016</DropItem>
+    <DropItem Type="Equip">16549017</DropItem>
+    <DropItem Type="Equip">16549018</DropItem>
+    <DropItem Type="Equip">16549019</DropItem>
+    <DropItem Type="Equip">16549020</DropItem>
   </BookUse>
   <BookUse ID="16569004">
     <TextId>dropbook_poke5</TextId>
     <BookIcon>PokemonLogo</BookIcon>
     <Chapter>5</Chapter>
-    <DropItem Type="Equip">16549012</DropItem>
-    <DropItem Type="Equip">16549013</DropItem>
-    <DropItem Type="Equip">16549014</DropItem>
+    <DropItem Type="Equip">16549015</DropItem>
+    <DropItem Type="Equip">16549016</DropItem>
+    <DropItem Type="Equip">16549017</DropItem>
+    <DropItem Type="Equip">16549018</DropItem>
+    <DropItem Type="Equip">16549019</DropItem>
+    <DropItem Type="Equip">16549020</DropItem>
   </BookUse>
 </BookUseXmlRoot>
