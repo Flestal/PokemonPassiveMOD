@@ -214,7 +214,7 @@
   <!-- 무기력 -->
   <Passive ID="16579042">
   <Rarity>Uncommon</Rarity>
-  <Cost>-14</Cost>
+  <Cost>-10</Cost>
   </Passive>
   <!-- 배짱 -->
   <Passive ID="16579043">
