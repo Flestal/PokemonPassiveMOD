@@ -26,7 +26,7 @@ namespace PokemonPassivesMOD
         }
         public override void OnRoundStart()
         {
-            pluscnt = 0;//매 막 시작시 플러스 보유자 수 초기화
+            mpcnt = 0;//매 막 시작시 플러스 보유자 수 초기화
             List<BattleUnitModel> alivelist = BattleObjectManager.instance.GetAliveList();
             foreach(BattleUnitModel target in alivelist)
             {
@@ -34,19 +34,20 @@ namespace PokemonPassivesMOD
                 {
                     continue;
                 }
-                if (target != null && target.passiveDetail.HasPassive<PassiveAbility_16579009>())
+                if (target != null && target.passiveDetail.HasPassive<PassiveAbility_16579008>())
                 {
-                    pluscnt++;
+                    mpcnt++;
                 }
             }
         }
-        public override void BeforeGiveDamage(BattleDiceBehavior behavior)
+        public override void BeforeRollDice(BattleDiceBehavior behavior)
         {
             behavior.ApplyDiceStatBonus(new DiceStatBonus
             {
-                dmg = pluscnt
+                dmg = mpcnt,
+                power=mpcnt
             });
         }
-        private int pluscnt;
+        private int mpcnt;
     }
 }

@@ -107,11 +107,12 @@
       <PassiveCost>10</PassiveCost>
       <Passive Level="1">16579007</Passive>
       <Passive Level="1">16579008</Passive>
-      <Passive Level="1">16579009</Passive>
+      <!-- <Passive Level="1">16579009</Passive> -->
       <Passive Level="1">16579010</Passive>
       <Passive Level="1">16579011</Passive>
       <Passive Level="1">16579012</Passive>
       <Passive Level="1">16579013</Passive>
+      <Passive Level="1">16579014</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -137,11 +138,12 @@
       <PassiveCost>10</PassiveCost>
       <Passive Level="1">16579007</Passive>
       <Passive Level="1">16579008</Passive>
-      <Passive Level="1">16579009</Passive>
+      <!-- <Passive Level="1">16579009</Passive> -->
       <Passive Level="1">16579010</Passive>
       <Passive Level="1">16579011</Passive>
       <Passive Level="1">16579012</Passive>
       <Passive Level="1">16579013</Passive>
+      <Passive Level="1">16579014</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -167,11 +169,12 @@
       <PassiveCost>10</PassiveCost>
       <Passive Level="1">16579007</Passive>
       <Passive Level="1">16579008</Passive>
-      <Passive Level="1">16579009</Passive>
+      <!-- <Passive Level="1">16579009</Passive> -->
       <Passive Level="1">16579010</Passive>
       <Passive Level="1">16579011</Passive>
       <Passive Level="1">16579012</Passive>
       <Passive Level="1">16579013</Passive>
+      <Passive Level="1">16579014</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -195,13 +198,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579014</Passive>
       <Passive Level="1">16579015</Passive>
       <Passive Level="1">16579016</Passive>
       <Passive Level="1">16579017</Passive>
       <Passive Level="1">16579018</Passive>
       <Passive Level="1">16579019</Passive>
       <Passive Level="1">16579020</Passive>
+      <Passive Level="1">16579021</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -225,13 +228,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579014</Passive>
       <Passive Level="1">16579015</Passive>
       <Passive Level="1">16579016</Passive>
       <Passive Level="1">16579017</Passive>
       <Passive Level="1">16579018</Passive>
       <Passive Level="1">16579019</Passive>
       <Passive Level="1">16579020</Passive>
+      <Passive Level="1">16579021</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -255,13 +258,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579014</Passive>
       <Passive Level="1">16579015</Passive>
       <Passive Level="1">16579016</Passive>
       <Passive Level="1">16579017</Passive>
       <Passive Level="1">16579018</Passive>
       <Passive Level="1">16579019</Passive>
       <Passive Level="1">16579020</Passive>
+      <Passive Level="1">16579021</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -285,13 +288,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579021</Passive>
       <Passive Level="1">16579022</Passive>
       <Passive Level="1">16579023</Passive>
       <Passive Level="1">16579024</Passive>
       <Passive Level="1">16579025</Passive>
       <Passive Level="1">16579026</Passive>
       <Passive Level="1">16579027</Passive>
+      <Passive Level="1">16579028</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -315,13 +318,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579021</Passive>
       <Passive Level="1">16579022</Passive>
       <Passive Level="1">16579023</Passive>
       <Passive Level="1">16579024</Passive>
       <Passive Level="1">16579025</Passive>
       <Passive Level="1">16579026</Passive>
       <Passive Level="1">16579027</Passive>
+      <Passive Level="1">16579028</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -345,13 +348,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579021</Passive>
       <Passive Level="1">16579022</Passive>
       <Passive Level="1">16579023</Passive>
       <Passive Level="1">16579024</Passive>
       <Passive Level="1">16579025</Passive>
       <Passive Level="1">16579026</Passive>
       <Passive Level="1">16579027</Passive>
+      <Passive Level="1">16579028</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -375,13 +378,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579028</Passive>
       <Passive Level="1">16579029</Passive>
       <Passive Level="1">16579030</Passive>
       <Passive Level="1">16579031</Passive>
       <Passive Level="1">16579032</Passive>
       <Passive Level="1">16579033</Passive>
       <Passive Level="1">16579034</Passive>
+      <Passive Level="1">16579035</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -405,13 +408,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579028</Passive>
       <Passive Level="1">16579029</Passive>
       <Passive Level="1">16579030</Passive>
       <Passive Level="1">16579031</Passive>
       <Passive Level="1">16579032</Passive>
       <Passive Level="1">16579033</Passive>
       <Passive Level="1">16579034</Passive>
+      <Passive Level="1">16579035</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -435,13 +438,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579028</Passive>
       <Passive Level="1">16579029</Passive>
       <Passive Level="1">16579030</Passive>
       <Passive Level="1">16579031</Passive>
       <Passive Level="1">16579032</Passive>
       <Passive Level="1">16579033</Passive>
       <Passive Level="1">16579034</Passive>
+      <Passive Level="1">16579035</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -465,13 +468,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579035</Passive>
       <Passive Level="1">16579036</Passive>
       <Passive Level="1">16579037</Passive>
       <Passive Level="1">16579038</Passive>
       <Passive Level="1">16579039</Passive>
       <Passive Level="1">16579040</Passive>
       <Passive Level="1">16579041</Passive>
+      <Passive Level="1">16579042</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -495,13 +498,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579035</Passive>
       <Passive Level="1">16579036</Passive>
       <Passive Level="1">16579037</Passive>
       <Passive Level="1">16579038</Passive>
       <Passive Level="1">16579039</Passive>
       <Passive Level="1">16579040</Passive>
       <Passive Level="1">16579041</Passive>
+      <Passive Level="1">16579042</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -525,13 +528,13 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579035</Passive>
       <Passive Level="1">16579036</Passive>
       <Passive Level="1">16579037</Passive>
       <Passive Level="1">16579038</Passive>
       <Passive Level="1">16579039</Passive>
       <Passive Level="1">16579040</Passive>
       <Passive Level="1">16579041</Passive>
+      <Passive Level="1">16579042</Passive>
     </EquipEffect>
     <NotEquip>true</NotEquip>
     <BookIcon>PokemonLogo</BookIcon>
@@ -555,7 +558,6 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579042</Passive>
       <Passive Level="1">16579043</Passive>
       <Passive Level="1">16579044</Passive>
       <Passive Level="1">16579045</Passive>
@@ -584,7 +586,6 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579042</Passive>
       <Passive Level="1">16579043</Passive>
       <Passive Level="1">16579044</Passive>
       <Passive Level="1">16579045</Passive>
@@ -613,7 +614,6 @@
       <PBResist>Normal</PBResist>
       <PBResist>Normal</PBResist>
       <PassiveCost>10</PassiveCost>
-      <Passive Level="1">16579042</Passive>
       <Passive Level="1">16579043</Passive>
       <Passive Level="1">16579044</Passive>
       <Passive Level="1">16579045</Passive>

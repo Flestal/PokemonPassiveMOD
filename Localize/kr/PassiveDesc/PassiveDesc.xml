@@ -33,8 +33,8 @@
         <Desc>모두에게 적용, 막 종료 시 주사위가 깨져 있을 시 깨진 주사위의 비율에 따라 최대 체력의 12.5%까지 피해</Desc>
     </PassiveDesc>
     <PassiveDesc ID="16579008">
-        <Name>마이너스</Name>
-        <Desc>무대에서 자신을 제외한 플러스 보유자 숫자만큼 자신의 주사위 피해량 증가</Desc>
+        <Name>마이너스/플러스</Name>
+        <Desc>무대에서 자신을 제외한 마이너스/플러스 보유자 숫자만큼 자신의 주사위 위력/피해량 증가</Desc>
     </PassiveDesc>
     <PassiveDesc ID="16579009">
         <Name>플러스</Name>

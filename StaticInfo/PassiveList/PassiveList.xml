@@ -41,10 +41,10 @@
   <Rarity>Unique</Rarity>
   <Cost>5</Cost>
   </Passive>
-  <!-- 마이너스 -->
+  <!-- 마이너스/플러스 -->
   <Passive ID="16579008">
   <Rarity>Uncommon</Rarity>
-  <Cost>1</Cost>
+  <Cost>2</Cost>
   </Passive>
   <!-- 플러스 -->
   <Passive ID="16579009">
