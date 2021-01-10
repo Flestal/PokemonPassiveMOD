@@ -34,7 +34,7 @@ namespace PokemonPassivesMOD
 				}
 				if (stack_burn > 0)
 				{
-					this.owner.TakeDamage(stack_burn / 2, null, false);
+					this.owner.TakeDamage(stack_burn / 2, null);
 				}
 				if (stack_burnBreak > 0)
 				{

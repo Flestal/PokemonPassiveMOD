@@ -21,7 +21,7 @@ namespace PokemonPassivesMOD
             //base.OnSucceedAttack(behavior);
             if(behavior.card.target.Book.GetResistHP(behavior.Detail) == AtkResist.Resist|| behavior.card.target.Book.GetResistHP(behavior.Detail) == AtkResist.Immune)
             {
-                behavior.card.target.TakeDamage(behavior.DiceResultValue, this.owner, true);
+                behavior.card.target.TakeDamage(behavior.DiceResultValue, this.owner);
                 behavior.card.target.TakeBreakDamage(behavior.DiceResultValue, this.owner, AtkResist.Normal);
             }
         }
