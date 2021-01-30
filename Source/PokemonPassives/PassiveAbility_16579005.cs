@@ -27,7 +27,7 @@ namespace PokemonPassivesMOD
         {
             if (!atkDice.IsParrying())
             {
-                atkDice.owner.TakeDamage(Convert.ToInt32(dmg*0.2f),base.owner);
+                atkDice.owner.TakeDamage(Convert.ToInt32(dmg*0.2f),DamageType.Passive,base.owner);
             }
         }
     }

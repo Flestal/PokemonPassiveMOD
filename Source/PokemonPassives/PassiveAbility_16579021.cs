@@ -36,7 +36,8 @@ namespace PokemonPassivesMOD
         {
             if (this.owner.hp == this.owner.MaxHp && this.owner.hp < dmg)
             {
-                this.owner.hp = 1;
+                //this.owner.hp = 1;
+                this.owner.SetHp(1);
                 invincible = true;
             }
             return true;

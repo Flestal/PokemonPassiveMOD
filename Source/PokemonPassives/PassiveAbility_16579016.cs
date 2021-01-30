@@ -44,7 +44,8 @@ namespace PokemonPassivesMOD
         {
             if (atkDice.Detail == MostWeak)
             {
-                this.owner.hp -= Convert.ToInt32(this.owner.MaxHp * 0.5);
+                //this.owner.hp -= Convert.ToInt32(this.owner.MaxHp * 0.5);
+                this.owner.TakeDamage(Convert.ToInt32(this.owner.MaxHp * 0.5));
                 if (this.owner.hp <= (float)this.owner.Book.DeadLine)
                 {
                     if (this.owner.lastAttacker != null)

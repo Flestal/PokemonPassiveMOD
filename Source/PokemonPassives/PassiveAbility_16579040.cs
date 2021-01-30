@@ -34,11 +34,11 @@ namespace PokemonPassivesMOD
 				}
 				if (stack_burn > 0)
 				{
-					this.owner.TakeDamage(stack_burn / 2, null);
+					this.owner.TakeDamage(stack_burn / 2,DamageType.Passive, null);
 				}
 				if (stack_burnBreak > 0)
 				{
-					this.owner.TakeBreakDamage(stack_burnBreak / 4, null, AtkResist.Normal);
+					this.owner.TakeBreakDamage(stack_burnBreak / 4,DamageType.Passive, null, AtkResist.Normal);
 				}
 				SingletonBehavior<DiceEffectManager>.Instance.CreateBufEffect("BufEffect_Burn", this.owner.view);
             }
