@@ -17,11 +17,11 @@ namespace PokemonPassivesMOD
         }
         public override void OnWaveStart()
         {
-            /*foreach (BattleUnitModel target in BattleObjectManager.instance.GetAliveList())
+            foreach (BattleUnitModel target in BattleObjectManager.instance.GetAliveList())
                 if (target.passiveDetail.HasPassive<PassiveAbility_16579000>())
                 {
                     this.owner.passiveDetail.DestroyPassive(this);
-                }*/
+                }
         }
         public override void OnRoundStart()
         {
