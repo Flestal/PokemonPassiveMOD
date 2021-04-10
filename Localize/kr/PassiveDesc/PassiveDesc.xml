@@ -158,7 +158,7 @@
     </PassiveDesc>
     <PassiveDesc ID="16579039">
         <Name>델타스트림</Name>
-        <Desc>이 패시브 보유자가 살아 있는 동안 속도 6 이상인 모든 아군의 수비 주사위 위력 +3</Desc>
+        <Desc>이 패시브 보유자가 살아 있는 동안 모든 아군의 속도 주사위 값 +2, 속도 6 이상인 모든 아군의 수비 주사위 위력 +3</Desc>
     </PassiveDesc>
     <PassiveDesc ID="16579040">
         <Name>내열</Name>

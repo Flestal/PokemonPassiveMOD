@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PokemonPassivesMOD
 {
-    class PassiveAbility_16579000:PassiveAbilityBase
+    class PassiveAbility_16579000 : PassiveAbilityBase 
     {
         public override string debugDesc
         {
@@ -17,6 +17,7 @@ namespace PokemonPassivesMOD
         }
         public override void OnWaveStart()
         {
+            count = 1;
             foreach(BattleUnitModel target in BattleObjectManager.instance.GetAliveList())
             if (target.passiveDetail.HasPassive<PassiveAbility_16579000>())
             {
@@ -31,6 +32,6 @@ namespace PokemonPassivesMOD
                 count++;
             }
         }
-        private int count = 1;
+        private int count;
     }
 }

@@ -17,7 +17,7 @@ namespace PokemonPassivesMOD
         {
             get
             {
-                return "이 패시브 보유자가 살아 있는 동안 속도 6 이상인 모든 아군의 수비 주사위 위력 +3";
+                return "이 패시브 보유자가 살아 있는 동안 모든 아군의 속도 주사위 값 +2, 속도 6 이상인 모든 아군의 수비 주사위 위력 +3";
             }
         }
         public override void OnRoundStart()
@@ -49,6 +49,10 @@ namespace PokemonPassivesMOD
                         power = 3
                     });
                 }
+            }
+            public override int GetSpeedDiceAdder(int speedDiceResult)
+            {
+                return 2;
             }
             public static int GetBuf(BattleUnitModel model)
             {

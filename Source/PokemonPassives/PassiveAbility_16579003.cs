@@ -17,23 +17,23 @@ namespace PokemonPassivesMOD
         }
         public override void OnWaveStart()
         {
-            foreach (BattleUnitModel target in BattleObjectManager.instance.GetAliveList())
+            /*foreach (BattleUnitModel target in BattleObjectManager.instance.GetAliveList())
                 if (target.passiveDetail.HasPassive<PassiveAbility_16579000>())
                 {
                     this.owner.passiveDetail.DestroyPassive(this);
-                }
+                }*/
         }
         public override void OnRoundStart()
         {
             List<BattleUnitModel> enemylist=BattleObjectManager.instance.GetAliveList((base.owner.faction == Faction.Enemy) ? Faction.Player : Faction.Enemy);
             foreach(BattleUnitModel enemy in enemylist)
             {
-                enemy.bufListDetail.AddKeywordBufThisRoundByEtc(KeywordBuf.Binding, 1, null);
+                enemy.bufListDetail.AddKeywordBufThisRoundByEtc(KeywordBuf.Binding, 1);
             }
         }
         public override void OnSucceedAttack(BattleDiceBehavior behavior)
         {
-            behavior.card.target.bufListDetail.AddKeywordBufByEtc(KeywordBuf.Binding, 1, null);
+            behavior.card.target.bufListDetail.AddKeywordBufByEtc(KeywordBuf.Binding, 1);
         }
     }
 }
